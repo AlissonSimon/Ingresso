@@ -12,7 +12,7 @@
 
 <h2 id="started">📌 Sobre</h2>
 
-A interface para compra de ingressos foi um projeto realizado durante um curso da Alura. O qual, consiste no usuário escolher um tipo de ingresso e a quantidade que deseja. Além disso, terá que ser subtraído a quantidade escolhida pelo usuário na tela e existirão regras que não permitirão compras acima da quantidade existente.
+A interface para compra de ingressos foi um projeto realizado durante um curso da Alura. O qual, consiste no usuário escolher um tipo de ingresso e a quantidade que deseja. Além disso, terá que ser subtraído a quantidade escolhida pelo usuário na tela e existirão regras que não permitirão compras acima da quantidade existente. Neste projeto, trabalhei somente com o Javascript pois a estilização e marcação da página recebi prontas pelos instrutores da Alura.
 
 <h2>Clonando o projeto</h2>
 
